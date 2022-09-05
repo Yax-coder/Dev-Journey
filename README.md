@@ -24,8 +24,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 4. Shift to project directory:
 
     ```bash
-    cd start-here-guidelines
-    ```
+    deDev-journey.projects   ```
 
 5. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
